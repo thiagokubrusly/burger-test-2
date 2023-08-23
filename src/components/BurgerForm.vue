@@ -50,6 +50,7 @@ export default {
             pao:"selecioneSeuPao",
             paes: null,
             carnes: null,
+            opcionais: [],
             opcionaisdata: null, //os 3 itens daqui pra cima (paes, carnes e opcionaisdata) são os dados recebidos do servidor, enquanto os 3 (nome, carne e opcionais) abaixo são os dados enviados para o servidor 
             nome: null,
             carne: null,

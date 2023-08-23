@@ -98,16 +98,18 @@
         "Pepino",
         "Bacon"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 2
     },
     {
-      "nome": "JarJar",
+      "nome": "Jack",
       "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 3
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Em produção",
+      "id": 4
     }
   ]
 }

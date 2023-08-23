@@ -101,7 +101,7 @@ export default {
 
             const req = await fetch(`http://localhost:3000/burgers/${id}`, {
                 method: "PATCH",
-                headers: { "Content-Type": "apllication/json" },
+                headers: { "Content-Type": "application/json" },
                 body: dataJson
             });
 
